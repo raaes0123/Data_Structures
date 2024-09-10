@@ -1,4 +1,4 @@
-#This is a C++ Implementaion of various Data Structures including
+# This is a C++ Implementaion of various Data Structures including
 - Linked List
 - Stack
 - Queue
