@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/raaes/OneDrive/Documents/C++/Data Structures/Stack",
-      "program": "c:/Users/raaes/OneDrive/Documents/C++/Data Structures/Stack/build/Debug/outDebug",
+      "cwd": "c:/Users/raaes/OneDrive/Documents/C++/Data_Structures/Data_Structures/Stack",
+      "program": "c:/Users/raaes/OneDrive/Documents/C++/Data_Structures/Data_Structures/Stack/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
