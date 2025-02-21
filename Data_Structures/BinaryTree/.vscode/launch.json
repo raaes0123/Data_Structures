@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/raaes/OneDrive/Documents/C++/Data_Structures/BinaryTree",
-      "program": "c:/Users/raaes/OneDrive/Documents/C++/Data_Structures/BinaryTree/build/Debug/outDebug",
+      "cwd": "c:/Users/raaes/OneDrive/Documents/C++/Data_Structures/Data_Structures/BinaryTree",
+      "program": "c:/Users/raaes/OneDrive/Documents/C++/Data_Structures/Data_Structures/BinaryTree/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

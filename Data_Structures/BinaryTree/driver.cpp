@@ -12,7 +12,7 @@ int main(){
     tree.insertNode(12);
     tree.insertNode(9);
     cout<<"In Order"<<endl;
-    tree.displayInOrder();
+    tree.displayPostOrder();
     tree.deleteSubTree(8);
     cout<<"InOrder after deletion"<<endl;
     tree.displayInOrder();
